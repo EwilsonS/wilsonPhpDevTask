@@ -7,8 +7,17 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+.nav{
+    background-color: rgba(0, 0, 0, 0.37);
+    
+}
+.title-main{
+    box-shadow: 5px 5px 12px 0px rgba(80, 80, 80, 0.267);
+    border: none;
+    /* background-color: rgb(187, 228, 255); */
+    background-color: rgba(0, 0, 0, 0.37);
 
-.jumbotron,
+}
 .card{
     box-shadow: 5px 5px 12px 0px rgba(80, 80, 80, 0.267);
 }
