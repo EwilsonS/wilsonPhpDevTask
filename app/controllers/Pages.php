@@ -5,7 +5,7 @@
 
     public function index(){
       $data = [
-        'title' => 'Evan\'s Quizzz App',
+        'title' => 'Evan\'s Quizzzz App',
         'description' => 'Enter Your Name and Choose a Topic'
       ];
       $this->view('pages/index', $data);
